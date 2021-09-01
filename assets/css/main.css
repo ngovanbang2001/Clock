@@ -18,9 +18,9 @@ body {
 
 #clock {
     background-color: lightblue;
-    font-size: 250px;
+    font-size: 240px;
     color: black;
     height: 400px;
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 }
